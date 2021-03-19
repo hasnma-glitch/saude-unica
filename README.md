@@ -6,7 +6,8 @@
 <h4>O que terá no perfil?</h4>
 <li>Histórico de Consultas</li>
 <li>Exames</li>
-<li>Vacinas</li>
+<li>Vacinas Humanas</li>
+<li>Vacinas Anti-rábica (Animal)</li>
 <li>Remédios (O Uso)</li>
 <li>Receitas Médicas</li>
 <li>Pedidos</li>
@@ -17,3 +18,14 @@
 <p>No site haverá algumas perguntas, mas ALGUNS não são obrigatórias responder, a caixa de perguntas terá duas cores que serão:</p>
 <p color="Green">Verde, que são perguntas obrigatórias para responder</p>
 <p color="Red">Vermelho, que são perguntas não obrigatórias e opcionais</p>
+
+<p>As perguntas são sobre:
+  <li>Seu estado de saúde</li>
+  <li>Remédios</li>
+  <li>Vacinas</li>
+</p>
+
+<h5>Solicitações</h5>
+<p>Você pode solicitar seu exame, marcar sua consulta atráves do formulário da secretaria. //Entrar no formulário//</p>
+<p>Você pode solicitar alguns remédios e algum objeto hospitalar (como luvas, gaze, soro, faixa/atadura... Mas objetos como seringas, remédios tarjas* são restritos que tem que ser justificados).</p>
+<p>Nós também vamos ter parceria com clinícas veterinárias e especialistas para solicitações de remédios para seu animal de estimação</p>
