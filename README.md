@@ -1,7 +1,7 @@
 # saúde-unica
 
 <h3>Sobre</h3>
-<p>Rede Social para mostrar os pedidos e resultados de exames, receitas médicas e histórico de consultas</p>
+<p>Site para mostrar os pedidos e resultados de exames, receitas médicas e histórico de consultas</p>
 
 <h4>O que terá no perfil?</h4>
 <li>Histórico de Consultas</li>
