@@ -27,7 +27,7 @@
 
 <h5>Solicitações</h5>
 
-<p>Você pode fazer a solicitação no formulário //Entrar no formulário//.</p>
+<p>Você pode fazer a solicitação no formulário.</p>
 <p>Você pode solicitar seu exame, marcar sua consulta atráves do formulário da secretaria.</p>
 <p>Você pode solicitar alguns remédios e algum objeto hospitalar (como luvas, gaze, soro, faixa/atadura... Mas objetos como seringas, remédios tarjas* são restritos que tem que ser justificados).</p>
 <p>Nós também vamos ter parceria com clinícas veterinárias e especialistas para solicitações de remédios para seu animal de estimação</p>
