@@ -3,7 +3,7 @@ create table tarja (
 	tarja char(40)
 );
 
-insert into tarja values (0, '(*)'),
+insert into tarja values (0, 'Tarja Amarela'),
 	(1, 'Sem Tarja/Venda Livre'),
 	(2, 'Tarja Vermelha'),
 	(3, 'Tarja Preta');
