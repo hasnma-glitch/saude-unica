@@ -47,7 +47,7 @@ create table categoria_farmarcia (
 	nomecf varchar(30)
 );
 
-insert into categoria_farmarcia values (0, 'Cápsula'), 
+insert into categoria_farmacia values (0, 'Cápsula'), 
 	(1, 'Comprimido'),
 	(2, 'Drágea'),
 	(3, 'Granulado'),
@@ -74,4 +74,47 @@ insert into categoria_farmarcia values (0, 'Cápsula'),
 	(24, 'Spray'),
 	(25, 'Vaporizações'),
 	(26, 'Fumigações'),
-	(27, 'Ampolas');
+	(27, 'Ampolas'),
+	
+	(28, 'Antibióticos β-lactâmicos'),
+	(29, 'Benzodiazepinicos'),
+	(30, 'Glicosídeo cardiáco'),
+	(31, 'Fibratos'),
+	(32, 'Diuréticos tiazídicos'),
+
+
+    (33, 'Inibidores da 5-alfa-redutase'),
+    (34, 'Antagonistas do receptor da angiotensina II'),
+    (35, 'Inibidores da ECA'),
+    (36, 'Agonistas alfa-adrenérgicos'),
+    (37, 'Bloqueadores beta'),
+    (38, 'Agonistas da dopamina'),
+    (39, 'Antagonistas da dopamina'),
+    (40, 'Incretina mimética'),
+    (41, 'Antiinflamatórios não-esteróides – inibidores da ciclooxigenase'),
+    (42, 'Inibidores da bomba de prótons'),
+    (43, 'Inibidores de renina'),
+    (44, 'Moduladores seletivo do receptor de glicocorticóides'),
+    (45, 'Inibidores seletivos da recaptação da serotonina'),
+    (46, 'Estatinas – HMG-CoA redutase inibidor'),
+
+    (47, 'Diuréticos'),
+    (48, 'Colinérgicos'),
+    (49, 'Dopaminérgicos'),
+    (50, 'GABAergicos'),
+    (51, 'Serotoninérgicos'),
+
+    (52, 'Analgésicos'),
+    (53, 'Antibióticos'),
+    (54, 'Anticoagulantes'),
+    (55, 'Antidepressivos'),
+    (56, 'Anticancerosos'),
+    (57, 'Antiepiléticos'),
+    (58, 'Anti-psicóticos'),
+    (59, 'Antivirais'),
+    (60, 'Sedativos'),
+    (61, 'Antidiabéticos'),
+    (62, 'Anti-inflamatórios')
+    (63, 'Anti-inflamatórios - Não Esteroides (AINEs)'),
+    (64, 'Anti-inflamatórios - Esteroidais (Corticóides)'),
+    (65, 'Droga anti-reumática modificadora de doença (DMARD)');
