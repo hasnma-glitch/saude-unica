@@ -1,0 +1,22 @@
+[
+  {
+    "cod_ff": 0,
+    "nomeff": "Sólida"
+  },
+  {
+    "cod_ff": 1,
+    "nomeff": "Semi-Sólida"
+  },
+  {
+    "cod_ff": 2,
+    "nomeff": "Líquida"
+  },
+  {
+    "cod_ff": 3,
+    "nomeff": "Gasosa"
+  },
+  {
+    "cod_ff": 4,
+    "nomeff": "Outras"
+  }
+]
