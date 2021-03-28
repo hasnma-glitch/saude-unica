@@ -66,17 +66,4 @@ create table laboratorio (
     id_laboratorio int,
     nome_lab varchar(100),
     cnpj int
-),
-
-create table medicamento (
-    tp_produto char,
-    nome_produto varchar(102) primary key,
-    dt_final_processo date,
-    categoria_reguladora char(50),
-    cod_registro_produto varchar(43),
-    dt_vencimento_registro date,
-    numero_processo varchar(21) not null,
-    classe_terapeutica varchar(164),
-    empresa_detentora_registro varchar(110) not null,
-    principio_ativo varchar(1158)
 );
