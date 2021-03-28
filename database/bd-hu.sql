@@ -44,7 +44,7 @@ create table paciente (
     cidade varchar,
     estado char,
     celular number,
-    email char
+    email mail
 ),
 
 /* Exames */
@@ -66,7 +66,7 @@ create table laboratorio (
     id_laboratorio int,
     nome_lab varchar(100),
     cnpj int
-)
+),
 
 create table medicamento (
     tp_produto char,
