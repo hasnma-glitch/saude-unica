@@ -1,0 +1,270 @@
+[
+  {
+    "cod": 0,
+    "nomecf": "Cápsula"
+  },
+  {
+    "cod": 1,
+    "nomecf": "Comprimido"
+  },
+  {
+    "cod": 2,
+    "nomecf": "Drágea"
+  },
+  {
+    "cod": 3,
+    "nomecf": "Granulado"
+  },
+  {
+    "cod": 4,
+    "nomecf": "Pomada ou unguento"
+  },
+  {
+    "cod": 5,
+    "nomecf": "Pasta"
+  },
+  {
+    "cod": 6,
+    "nomecf": "Creme"
+  },
+  {
+    "cod": 7,
+    "nomecf": "Supositório"
+  },
+  {
+    "cod": 8,
+    "nomecf": "Óvulo"
+  },
+  {
+    "cod": 9,
+    "nomecf": "Solução"
+  },
+  {
+    "cod": 10,
+    "nomecf": "Suspensão"
+  },
+  {
+    "cod": 11,
+    "nomecf": "Extrato Fluido"
+  },
+  {
+    "cod": 12,
+    "nomecf": "Espírito"
+  },
+  {
+    "cod": 13,
+    "nomecf": "Tintura"
+  },
+  {
+    "cod": 14,
+    "nomecf": "Xarope"
+  },
+  {
+    "cod": 15,
+    "nomecf": "Elixir"
+  },
+  {
+    "cod": 16,
+    "nomecf": "Emulsão"
+  },
+  {
+    "cod": 17,
+    "nomecf": "Sistema de Gás Comprimido ou aerossóis"
+  },
+  {
+    "cod": 18,
+    "nomecf": "Cataplasmas"
+  },
+  {
+    "cod": 19,
+    "nomecf": "Cetratos"
+  },
+  {
+    "cod": 20,
+    "nomecf": "Alcolatos"
+  },
+  {
+    "cod": 21,
+    "nomecf": "Colutórios"
+  },
+  {
+    "cod": 22,
+    "nomecf": "Enemas ou Clister"
+  },
+  {
+    "cod": 23,
+    "nomecf": "Aerossóis"
+  },
+  {
+    "cod": 24,
+    "nomecf": "Spray"
+  },
+  {
+    "cod": 25,
+    "nomecf": "Vaporizações"
+  },
+  {
+    "cod": 26,
+    "nomecf": "Fumigações"
+  },
+  {
+    "cod": 27,
+    "nomecf": "Ampolas"
+  },
+  {
+    "cod": "",
+    "nomecf": ""
+  },
+  {
+    "cod": 28,
+    "nomecf": "Antibióticos β-lactâmicos"
+  },
+  {
+    "cod": 29,
+    "nomecf": "Benzodiazepinicos"
+  },
+  {
+    "cod": 30,
+    "nomecf": "Glicosídeo cardiáco"
+  },
+  {
+    "cod": 31,
+    "nomecf": "Fibratos"
+  },
+  {
+    "cod": 32,
+    "nomecf": "Diuréticos tiazídicos"
+  },
+  {
+    "cod": 33,
+    "nomecf": "Inibidores da 5-alfa-redutase"
+  },
+  {
+    "cod": 34,
+    "nomecf": "Antagonistas do receptor da angiotensina II"
+  },
+  {
+    "cod": 35,
+    "nomecf": "Inibidores da ECA"
+  },
+  {
+    "cod": 36,
+    "nomecf": "Agonistas alfa-adrenérgicos"
+  },
+  {
+    "cod": 37,
+    "nomecf": "Bloqueadores beta"
+  },
+  {
+    "cod": 38,
+    "nomecf": "Agonistas da dopamina"
+  },
+  {
+    "cod": 39,
+    "nomecf": "Antagonistas da dopamina"
+  },
+  {
+    "cod": 40,
+    "nomecf": "Incretina mimética"
+  },
+  {
+    "cod": 41,
+    "nomecf": "Antiinflamatórios não-esteróides – inibidores da ciclooxigenase"
+  },
+  {
+    "cod": 42,
+    "nomecf": "Inibidores da bomba de prótons"
+  },
+  {
+    "cod": 43,
+    "nomecf": "Inibidores de renina"
+  },
+  {
+    "cod": 44,
+    "nomecf": "Moduladores seletivo do receptor de glicocorticóides"
+  },
+  {
+    "cod": 45,
+    "nomecf": "Inibidores seletivos da recaptação da serotonina"
+  },
+  {
+    "cod": 46,
+    "nomecf": "Estatinas – HMG-CoA redutase inibidor"
+  },
+  {
+    "cod": 47,
+    "nomecf": "Diuréticos"
+  },
+  {
+    "cod": 48,
+    "nomecf": "Colinérgicos"
+  },
+  {
+    "cod": 49,
+    "nomecf": "Dopaminérgicos"
+  },
+  {
+    "cod": 50,
+    "nomecf": "GABAergicos"
+  },
+  {
+    "cod": 51,
+    "nomecf": "Serotoninérgicos"
+  },
+  {
+    "cod": 52,
+    "nomecf": "Analgésicos"
+  },
+  {
+    "cod": 53,
+    "nomecf": "Antibióticos"
+  },
+  {
+    "cod": 54,
+    "nomecf": "Anticoagulantes"
+  },
+  {
+    "cod": 55,
+    "nomecf": "Antidepressivos"
+  },
+  {
+    "cod": 56,
+    "nomecf": "Anticancerosos"
+  },
+  {
+    "cod": 57,
+    "nomecf": "Antiepiléticos"
+  },
+  {
+    "cod": 58,
+    "nomecf": "Anti-psicóticos"
+  },
+  {
+    "cod": 59,
+    "nomecf": "Antivirais"
+  },
+  {
+    "cod": 60,
+    "nomecf": "Sedativos"
+  },
+  {
+    "cod": 61,
+    "nomecf": "Antidiabéticos"
+  },
+  {
+    "cod": 62,
+    "nomecf": "Anti-inflamatórios"
+  },
+  {
+    "cod": 63,
+    "nomecf": "Anti-inflamatórios - Não EsteroidesAINEs)"
+  },
+  {
+    "cod": 64,
+    "nomecf": "Anti-inflamatórios - EsteroidaisCorticóides)"
+  },
+  {
+    "cod": 65,
+    "nomecf": "Droga anti-reumática modificadora de doençaDMARD))"
+  }
+]
