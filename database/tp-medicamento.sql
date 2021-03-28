@@ -1,15 +1,17 @@
 create table medicamento (
     tp_produto char,
-    nome_produto varchar(102) primary key,
+    nome_produto varchar(102),
     dt_final_processo date,
     categoria_reguladora char(50),
-    cod_registro_produto varchar(43),
+    cod_registro_produto int(43) primary key,
     dt_vencimento_registro date,
     numero_processo varchar(21) not null,
     classe_terapeutica varchar(164),
     empresa_detentora_registro varchar(110) not null,
     principio_ativo varchar(1158)
 ),
+
+---
 
 ---
 create table tarja (
