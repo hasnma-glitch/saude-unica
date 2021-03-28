@@ -1,7 +1,21 @@
+create table medicamento (
+    tp_produto char,
+    nome_produto varchar(102) primary key,
+    dt_final_processo date,
+    categoria_reguladora char(50),
+    cod_registro_produto varchar(43),
+    dt_vencimento_registro date,
+    numero_processo varchar(21) not null,
+    classe_terapeutica varchar(164),
+    empresa_detentora_registro varchar(110) not null,
+    principio_ativo varchar(1158)
+),
+
+---
 create table tarja (
 	cod int primary key,
 	tarja char(40)
-);
+),
 
 insert into tarja values (0, 'Tarja Amarela'),
 	(1, 'Sem Tarja/Venda Livre'),
@@ -11,7 +25,7 @@ insert into tarja values (0, 'Tarja Amarela'),
 create table categoria_regulatoria (
 	codcatreg int primary key (forma_farmaceutica),
 	nome_cr varchar(100)
-)
+),
 
 insert into categoria_regulatoria values (0, 'Vacina'),
 	(1, 'Biológico'),
