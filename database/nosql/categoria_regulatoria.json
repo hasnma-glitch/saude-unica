@@ -1,0 +1,62 @@
+[
+  {
+    "codcatreg": 0,
+    "nome_cr": "Vacina"
+  },
+  {
+    "codcatreg": 1,
+    "nome_cr": "Biológico"
+  },
+  {
+    "codcatreg": 2,
+    "nome_cr": "Dinamizado"
+  },
+  {
+    "codcatreg": 3,
+    "nome_cr": "Especifico"
+  },
+  {
+    "codcatreg": 4,
+    "nome_cr": "Fitoterápico"
+  },
+  {
+    "codcatreg": 5,
+    "nome_cr": "Genérico"
+  },
+  {
+    "codcatreg": 6,
+    "nome_cr": "Novo"
+  },
+  {
+    "codcatreg": 7,
+    "nome_cr": "Terapia Avançada"
+  },
+  {
+    "codcatreg": 8,
+    "nome_cr": "Radiofármaco"
+  },
+  {
+    "codcatreg": 9,
+    "nome_cr": "Similar"
+  },
+  {
+    "codcatreg": 10,
+    "nome_cr": "16 e 18 - Recombinante"
+  },
+  {
+    "codcatreg": 11,
+    "nome_cr": "Pertussis - Acelular"
+  },
+  {
+    "codcatreg": 12,
+    "nome_cr": "Pertussis e Hemophilus Influenza B (Conjugada)"
+  },
+  {
+    "codcatreg": 13,
+    "nome_cr": "Rubéola - Atenuada"
+  },
+  {
+    "codcatreg": 14,
+    "nome_cr": "Rubéola e Varicela - Atenuada"
+  }
+]
