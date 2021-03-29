@@ -15,7 +15,7 @@ create table medicamento (
 
 ---
 create table tarja (
-	cod int primary key,
+	cod_tarja int primary key,
 	tarja char(40)
 ),
 
