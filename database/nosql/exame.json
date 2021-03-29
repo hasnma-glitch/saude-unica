@@ -1,0 +1,122 @@
+[
+  {
+    "atd_protocolo": null,
+    "cod_exame": 1,
+    "nome_exame": "Exame de Sangue - Geral"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 2,
+    "nome_exame": "Exame de Urina - Geral"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 3,
+    "nome_exame": "Exame de Urina - Rotina"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 4,
+    "nome_exame": "Exame de Urina - 24h"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 5,
+    "nome_exame": "Exame de Sangue - Check-Up"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 6,
+    "nome_exame": "Exame de Urina - Check-Up"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 7,
+    "nome_exame": "Ultrassonografia"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 8,
+    "nome_exame": "Ecocardiograma"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 9,
+    "nome_exame": "Eletrocardiograma"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 10,
+    "nome_exame": "Teste Ergométrico"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 11,
+    "nome_exame": "Papanicolau"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 12,
+    "nome_exame": "Mamografia"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 13,
+    "nome_exame": "Ultrassonografia transvaginal"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 14,
+    "nome_exame": "Prostáta"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 15,
+    "nome_exame": "Toque Retal"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 16,
+    "nome_exame": "Dosagem de PSA"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 17,
+    "nome_exame": "Teste de HIV"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 18,
+    "nome_exame": "Teste de Sífilis"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 19,
+    "nome_exame": "Teste de Gravidez - Urina"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 20,
+    "nome_exame": "Teste de Gravidez - Sangue"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 21,
+    "nome_exame": "Tomografia"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 22,
+    "nome_exame": "Exame Neurológico"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 23,
+    "nome_exame": "Ressonância magnética"
+  },
+  {
+    "atd_protocolo": null,
+    "cod_exame": 24,
+    "nome_exame": "Spect Cerebral | Diagnostico Psicológico-Psiquiátrico"
+  }
+]
