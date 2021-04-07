@@ -34,7 +34,7 @@
 
 <h5>Desenhos</h5>
 
-
+<img src="public/imgs/tarjas.svg">
 
 <h4>Fontes:</h4>
   <p>Irei adicionar após quando eu terminar a pasta Database, no arquivo 'bd-hu.sql' e 'medicamento.sql' // 'bd-hu.json' e 'medicamento.json' não irei colocar os inserts</p>
