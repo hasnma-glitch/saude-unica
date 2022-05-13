@@ -1,0 +1,11 @@
+.vscode/*
+!.vscode/extensions.json
+
+# logs
+
+*.log
+
+Base de Dados
+
+*.sql
+*!.nosql.json
