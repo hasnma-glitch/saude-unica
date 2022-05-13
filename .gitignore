@@ -9,3 +9,5 @@ Base de Dados
 
 *.sql
 *!.nosql.json
+
+*.local
