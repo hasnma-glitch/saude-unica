@@ -37,6 +37,4 @@
 <img src="public/imgs/tarjas1.svg" width="500" height="400">
 
 Comentário: <p>Isso é apenas uma pequena demonstração de como seria os frascos. Sei que o desenho ficou estranho, mas irei fazer update em breve</p>
-
-<h4>Fontes:</h4>
-  <p>Irei adicionar após quando eu terminar a pasta Database, no arquivo 'bd-hu.sql' e 'medicamento.sql' // 'bd-hu.json' e 'medicamento.json' não irei colocar os inserts</p>
+<p>Não irei colocar os databases</p>
