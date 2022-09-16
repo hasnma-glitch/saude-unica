@@ -37,4 +37,4 @@
 <img src="public/imgs/tarjas1.svg" width="500" height="400">
 
 Comentário: <p>Isso é apenas uma pequena demonstração de como seria os frascos. Sei que o desenho ficou estranho, mas irei fazer update em breve</p>
-<p>Não irei colocar os databases</p>
+<p>Não irei colocar o banco de dados
