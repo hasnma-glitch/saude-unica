@@ -1,9 +1,8 @@
-# Saúde-Unica | Health-Unit
+# Saúde Única | Health-Unit
 
 <h3>Sobre</h3>
-<p>Site para mostrar os pedidos e resultados de exames, receitas médicas e histórico de consultas</p>
+<p>Site para mostrar os pedidos e resultados de exames, receitas médicas e histórico de consultas, é como se fosse uma pasta de documentos de saúde, mas irá servir como se fosse Unidade Básica de Saúde Municipal e Hospitalar. O perfil irá desmonstrar <i>citado abaixo</i></p>
 
-<h4>O que terá no perfil?</h4>
 <li>Histórico de Consultas</li>
 <li>Exames</li>
 <li>Vacinas Humanas</li>
@@ -36,6 +35,6 @@
   
 <img src="public/imgs/tarjas.jpg" width="400" height="600">
 
-<p>Você poderá ver as imagens anteriores, na pasta public/imgs. E o ultimo desenho é uma pomada</p>
+<p>Você poderá ver as imagens anteriores, na pasta public/imgs. E o último desenho é uma pomada</p>
 Comentário: <p>Isso é apenas uma pequena demonstração de como seria os frascos. Sei que o desenho ficou estranho, mas irei fazer update em breve</p>
-<p>Não irei colocar o banco de dados
+<p>Não irei colocar o banco de dados</p>
