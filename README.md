@@ -33,8 +33,9 @@
 <p>Nós também vamos ter parceria com clinícas veterinárias e especialistas para solicitações de remédios para seu animal de estimação</p>
 
 <h5>Desenhos</h5>
+  
+<img src="public/imgs/tarjas.jpg" width="400" height="600">
 
-<img src="public/imgs/tarjas1.svg" width="500" height="400">
-
+<p>Você poderá ver as imagens anteriores, na pasta public/imgs. E o ultimo desenho é uma pomada</p>
 Comentário: <p>Isso é apenas uma pequena demonstração de como seria os frascos. Sei que o desenho ficou estranho, mas irei fazer update em breve</p>
 <p>Não irei colocar o banco de dados
